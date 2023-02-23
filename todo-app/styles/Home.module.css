@@ -253,7 +253,7 @@
         rgba(var(--background-start-rgb), 1),
         rgba(var(--callout-rgb), 0.5));
     background-clip: padding-box;
-    backdrop-filter: blur(24px);
+
   }
 
   .description div {
